@@ -1,0 +1,29 @@
+OpenU IL Block Users Online - Advanced
+-----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------
+Description
+----------------------------------------------------
+
+Enclosed is an improved version of the Moodle "Users Online" block. In this version only users
+who are members of the same course will see each other.
+
+
+----------------------------------------------------
+Installation Information
+----------------------------------------------------
+
+1. Copy "online_users_advanced" directory to moodle/block.
+2. In Moodle log-in as admin and go to the notifications page (in the Site Administration block).
+3. The installation will be automatic.
+
+
+----------------------------------------------------
+Notes
+----------------------------------------------------
+
+There currently is a bug that the admin cannot see anyone in this block.
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Developed by: The Open University of Israel	Packaged by: http://www.atarplpl.co.il		Licence: GNU-GPL
