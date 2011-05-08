@@ -13,6 +13,6 @@ $string['noconnectedusers'] = 'אין משתמשים מחוברים';
 $string['allcourseconnectedusers'] = 'כל מחוברים...';
 $string['allcourseusers'] = 'כל המשתתפים';
 $string['allcourseteachers'] = 'צוות ההוראה';
-$string['blockname_front_page'] = 'מחוברים';
+$string['blockname_front_page'] = 'משתמשי קורס מחוברים';
 $string['blockname_course'] = 'משתתפים';
 ?>

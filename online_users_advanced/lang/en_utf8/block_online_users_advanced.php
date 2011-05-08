@@ -11,7 +11,7 @@ $string['sortbygroup'] = 'Sort by group';
 $string['noconnectedusers'] = 'There are no connected users';
 $string['allcourseconnectedusers'] = 'All connected...';
 $string['allcourseusers'] = 'All course praticipants';
-$string['blockname_front_page'] = 'connected';
+$string['blockname_front_page'] = 'Online Course Users';
 $string['blockname_course'] = 'Participants';
 
 ?>
