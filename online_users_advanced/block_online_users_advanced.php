@@ -14,11 +14,11 @@ class block_online_users_advanced extends block_base {
 		$courseid = array_keys($main_course);
 		$MAIN_COURSE_ID = $courseid[0];
 		$context = get_context_instance(CONTEXT_COURSE, $COURSE->id);
-		if(is_inside_frontpage($context)){
+//		if(is_inside_frontpage($context)){
 			$this->title = get_string('blockname_front_page','block_online_users_advanced');
-		}else{
-			$this->title = get_string('blockname_course','block_online_users_advanced');
-		}
+//		}else{
+//			$this->title = get_string('blockname_course','block_online_users_advanced');
+//		}
 		$this->version = 2010111610;
 	}
 
