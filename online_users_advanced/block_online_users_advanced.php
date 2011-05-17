@@ -19,7 +19,7 @@ class block_online_users_advanced extends block_base {
 //		}else{
 //			$this->title = get_string('blockname_course','block_online_users_advanced');
 //		}
-		$this->version = 2010111610;
+		$this->version = 2010111611;
 	}
 
 	function has_config() {return true;}
