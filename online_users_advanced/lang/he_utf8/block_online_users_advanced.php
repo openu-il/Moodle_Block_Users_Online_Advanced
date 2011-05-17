@@ -15,4 +15,6 @@ $string['allcourseusers'] = 'כל המשתתפים';
 $string['allcourseteachers'] = 'צוות ההוראה';
 $string['blockname_front_page'] = 'משתמשי קורס מחוברים';
 $string['blockname_course'] = 'משתתפים';
+$string['visibleroles'] = 'תפקידים נראים';
+$string['configvisibleroles'] = 'תפקידי המשתמשים אותם ניתן יהיה לראות בבלוק.';
 ?>

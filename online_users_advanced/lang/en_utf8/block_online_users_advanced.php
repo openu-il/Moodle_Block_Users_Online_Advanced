@@ -13,5 +13,6 @@ $string['allcourseconnectedusers'] = 'All connected...';
 $string['allcourseusers'] = 'All course praticipants';
 $string['blockname_front_page'] = 'Online Course Users';
 $string['blockname_course'] = 'Participants';
-
+$string['visibleroles'] = 'Visible roles';
+$string['configvisibleroles'] = 'Roles of users who will be visible in the block.';
 ?>

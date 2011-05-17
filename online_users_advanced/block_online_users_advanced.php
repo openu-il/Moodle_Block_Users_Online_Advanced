@@ -319,7 +319,7 @@ class block_online_users_advanced extends block_base {
 						LEFT JOIN mdl_user u ON u.id = ra.userid
 						LEFT JOIN mdl_role r ON r.id = ra.roleid 
 						WHERE ra.userid = {$USER->id} 
-							AND ra.roleid IN ({$CFG->myrolesforenroledcourses})
+							AND ra.roleid IN ({$CFG->block_online_users_advanced_visibleroles})
 							AND ra.contextid <> 2";
 
 		$enroled_courses = get_records_sql($sql);
